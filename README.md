@@ -1,1 +1,3 @@
-# Password Manager by lefds
+# LockBox - Password Manager written in C++ by lefds
+
+# Under Development...
